@@ -13,5 +13,7 @@ inside this folder, place your excel spreadsheet, titled "medical_school_costs_t
 A folder labeled "output"
 
 Then, run this script in terminal
-first, redirect to your folder (I usually do this by left clicking the folder and at the bottom of the selection screen there is a button that says "copy as path") and then I run the command "cd C:\Users\REDACTED\OneDrive\Desktop\Utilities\loans\debt_calculator_python"
+
+First, redirect to your folder (I usually do this by left clicking the folder and at the bottom of the selection screen there is a button that says "copy as path") and then I run the command "cd C:\Users\REDACTED\OneDrive\Desktop\Utilities\loans\debt_calculator_python"
+
 Then, run "python medical_school_debt_estimator_V5.py"
